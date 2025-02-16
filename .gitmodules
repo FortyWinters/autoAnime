@@ -1,0 +1,6 @@
+[submodule "autoAnimeR"]
+	path = autoAnimeR
+	url = https://github.com/FortyWinters/autoAnimeR.git
+[submodule "autoAnimeUI"]
+	path = autoAnimeUI
+	url = https://github.com/FortyWinters/autoAnimeUI.git
